@@ -1,6 +1,43 @@
 # Prononciation
 
-## 法文發音 Cheatsheet
+## Cheatsheet
+
+### 變音
+
+| 變音 | 發音 | 注音 | 例子 |
+| --- | --- | --- | --- |
+| é   | /e/ | ㄟ | été（夏天）、étudiant（學生）、échecs（西洋棋）|
+| è   | /ɛ/ | ㄝ | célèbre（名人）、élève（學徒）、lèvre（嘴唇）|
+| à   | /a/ | ㄚ | là（那兒）|
+| ù   | /y/ | ㄩ | où（哪裡）|
+| â   | /a/ | ㄚ | pâté（肉泥抹醬）|
+| ê   | /ɛ/ | ㄝ | forêt（森林）|
+| î   | /i/ | ㄧ | île（島）|
+| ô   | /o/ | ㄛ | hôpital（醫院）|
+| û   | /y/ | ㄩ | sûr（確定的）|
+| ë   | /e/ | ㄟ | Noël（聖誕節）|
+| ï   | /i/ | ㄧ | Taïwan（台灣）|
+| ü   | /y/ | ㄩ | ü |
+| ç   | /s/ | ㄙ | ça（那個）|
+
+### 雙母音
+
+| 雙母音 | 發音 | 注音 | 例子 |
+| --- | --- | --- | --- |
+| ou  | /u/ | ㄨ | bouche（嘴巴）、mousse（慕斯）、nouille（麵條）|
+| eau、au | /ɔ/ | ㄛ | beau（美麗的）、restaurant（餐廳）|
+| œu、eu | /ø/ | ㄛ | bœuf（牛肉）、œuf（蛋）、Europe（歐洲）|
+| ai  | /ɛ/ | ㄝ | parfait（完美的）、chaise（椅子）、saison（季節）|
+| oi  | /wa/ | ㄨㄚ | foi（信仰）、moi（我）、bois（木頭）|
+
+### 母音加子音
+
+| 組合 | 發音 | 注音 | 例子 |
+| --- | --- | --- | --- |
+| an、am、em | /ɑ̃/ | ㄤ | France（法國）、femme（女人）|
+| en、on、om | /ɔ̃/ | 翁 | enfant（孩子）、nom（名字）|
+| ain、aim、in、im、un、um | /ɛ̃/ | ㄥ | faim（餓）、Saint（聖人）|
+| ill | /ij/ | ㄧ | famille（家庭）|
 
 ### 法文字母及發音
 
@@ -63,43 +100,6 @@
 | gn  | /ɲ/ | ㄋㄧㄝ | beignet（法式甜甜圈）、règne（統治）、montagne（山）|
 | ps  | /ps/ | ㄆㄙ | psychologie（心理學）、psyché（心靈）|
 | h   | 不發音 | | humeur（心情）、hiver（冬天）、hier（昨天）|
-
-### 變音
-
-| 變音 | 發音 | 注音 | 例子 |
-| --- | --- | --- | --- |
-| é   | /e/ | ㄟ | été（夏天）、étudiant（學生）、échecs（西洋棋）|
-| è   | /ɛ/ | ㄝ | célèbre（名人）、élève（學徒）、lèvre（嘴唇）|
-| à   | /a/ | ㄚ | là（那兒）|
-| ù   | /y/ | ㄩ | où（哪裡）|
-| â   | /a/ | ㄚ | pâté（肉泥抹醬）|
-| ê   | /ɛ/ | ㄝ | forêt（森林）|
-| î   | /i/ | ㄧ | île（島）|
-| ô   | /o/ | ㄛ | hôpital（醫院）|
-| û   | /y/ | ㄩ | sûr（確定的）|
-| ë   | /e/ | ㄟ | Noël（聖誕節）|
-| ï   | /i/ | ㄧ | Taïwan（台灣）|
-| ü   | /y/ | ㄩ | ü |
-| ç   | /s/ | ㄙ | ça（那個）|
-
-### 雙母音
-
-| 雙母音 | 發音 | 注音 | 例子 |
-| --- | --- | --- | --- |
-| ou  | /u/ | ㄨ | bouche（嘴巴）、mousse（慕斯）、nouille（麵條）|
-| eau、au | /ɔ/ | ㄛ | beau（美麗的）、restaurant（餐廳）|
-| œu、eu | /ø/ | ㄛ | bœuf（牛肉）、œuf（蛋）、Europe（歐洲）|
-| ai  | /ɛ/ | ㄝ | parfait（完美的）、chaise（椅子）、saison（季節）|
-| oi  | /wa/ | ㄨㄚ | foi（信仰）、moi（我）、bois（木頭）|
-
-### 母音加子音
-
-| 組合 | 發音 | 注音 | 例子 |
-| --- | --- | --- | --- |
-| an、am、em | /ɑ̃/ | ㄤ | France（法國）、femme（女人）|
-| en、on、om | /ɔ̃/ | 翁 | enfant（孩子）、nom（名字）|
-| ain、aim、in、im、un、um | /ɛ̃/ | ㄥ | faim（餓）、Saint（聖人）|
-| ill | /ij/ | ㄧ | famille（家庭）|
 
 ### 發音原則
 
