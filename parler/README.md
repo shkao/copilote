@@ -1,6 +1,6 @@
-# Prononciation
+# Parler
 
-## Cheatsheet
+## 發音基礎
 
 ### 雙母音
 
