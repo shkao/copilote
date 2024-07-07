@@ -3,7 +3,8 @@
 ## Prompt
 
 ```
-Please extract key and commonly used French vocabulary from the provided snapshots of textbooks or notes. Organize the vocabulary into the following categories:
+Please extract key and commonly used French vocabulary from the provided snapshots of textbooks or notes.
+Organize the vocabulary into the following categories:
 
 """
 1. Vocabulaire de base
