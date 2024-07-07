@@ -1,6 +1,52 @@
-### 3. Personnes et corps
+# 3. Personnes et corps
 
-- **Les personnes** : amis, collègues, voisins, etc.
-- **Les professions** : médecin, enseignant, ingénieur, etc.
-- **Les parties du corps** : tête, mains, pieds, etc.
-- **La santé** : maladies, symptômes, soins médicaux, etc.
+- acteur/actrice
+- ami/amie
+- Anglais/Anglaise
+- assistant/assistante
+- avocat/avocate
+- banquier/banquière
+- boulanger/boulangère
+- caissier/caissière
+- candidat/candidate
+- chanteur/chanteuse
+- chrétien/chrétiènne
+- citoyen/citoyenne
+- coiffeur/coiffeuse
+- commerçant/commerçante
+- coréen/coréenne
+- directeur/directrice
+- dentiste
+- étudiant/étudiante
+- écrivain/écrivaine
+- facteur
+- femme
+- fonctionnaire
+- heureux/heureuse
+- homme
+- ingénieur/ingénieure
+- informaticien/informaticienne
+- infirmier/infirmière
+- Italien/Italienne
+- Japonais/Japonaise
+- jeune
+- journaliste
+- lycéen/lycéenne
+- médecin
+- musicien/musicienne
+- militaire
+- opticien/opticienne
+- ouvrier/ouvrière
+- patron/patronne
+- paysan/paysanne
+- pharmacien/pharmacienne
+- pompier
+- président/presidente
+- propriétaire
+- professeur/professeure
+- restaurateur/restauratrice
+- secrétaire
+- serveur/serveuse
+- Suisse/Suissesse
+- technicien/technicienne
+- traducteur/traductrice

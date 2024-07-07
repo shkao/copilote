@@ -1,5 +1,18 @@
-### 4. École et travail
+# 4. École et travail
 
-- **L'école** : cours, examens, matières, etc.
-- **Le bureau** : fournitures, équipements, processus de travail, etc.
-- **Les outils d'apprentissage** : livres, cahiers, ordinateurs, etc.
+- bibliothèque
+- cahier
+- dictionnaire
+- étudiant/étudiante
+- fonctionnaire
+- livre
+- médecin
+- militaire
+- ordinateur
+- peintre
+- professeur/professeure
+- secrétaire
+- tableau
+- table
+- technicien/technicienne
+- université

@@ -1,5 +1,10 @@
-### 6. Loisirs et divertissement
+# 6. Loisirs et divertissement
 
-- **Les sports** : football, basket, natation, etc.
-- **Les arts** : musique, peinture, cinéma, etc.
-- **Les voyages** : destinations, hébergement, moyens de transport, etc.
+- chanson
+- chaussure
+- danseur/danseuse
+- football
+- lunette
+- musique
+- sport
+- voiture

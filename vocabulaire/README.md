@@ -3,8 +3,8 @@
 ## Prompt
 
 ```
-Please extract key and commonly used French vocabulary from the provided snapshots of textbooks or notes.
-Organize the vocabulary into the following categories:
+Please extract key and commonly used French vocabulary from the provided snapshots.
+Organize the vocabulary into the following categories and combine masculine and feminine in oneline (masculine/feminine):
 
 """
 1. Vocabulaire de base
@@ -19,7 +19,7 @@ Organize the vocabulary into the following categories:
 10. Économie et finance
 """
 
-Output only the French words, sorted alphabetically within each category.
+Output only the unique French words in singular form, sorted alphabetically within each category.
 ```
 
 ## 1. Vocabulaire de base
