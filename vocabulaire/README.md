@@ -1,5 +1,26 @@
 # Vocabulaire
 
+## Prompt
+
+```
+Please extract key and commonly used French vocabulary from the provided snapshots of textbooks or notes. Organize the vocabulary into the following categories:
+
+"""
+1. Vocabulaire de base
+2. Vie quotidienne
+3. Personnes et corps
+4. École et travail
+5. Nature et environnement
+6. Loisirs et divertissement
+7. Émotions et vie sociale
+8. Technologie et médias
+9. Politique et société
+10. Économie et finance
+"""
+
+Output only the French words, sorted alphabetically within each category.
+```
+
 ## 1. Vocabulaire de base
 
 - **Les chiffres** : un à dix, cent, mille, etc.
