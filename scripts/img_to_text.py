@@ -31,12 +31,12 @@ def create_payload(base64_image):
                     {
                         "type": "text",
                         "text": (
-                            "Please extract important French vocabulary words from the provided image. "
-                            "List each distinct French word on a new line without any symbols or additional characters. "
-                            "For verbs, provide the bare infinitive forms. "
-                            "For nouns, provide the singular form. "
-                            "For adjectives, provide the masculine singular form. "
-                            "Ensure that no leading '-' is included. "
+                            "Veuillez extraire et fournir les mots de vocabulaire français qui valent la peine d'être appris à partir de l'image fournie. "
+                            "Listez chaque mot français distinct sur une nouvelle ligne sans symboles ni caractères supplémentaires. "
+                            "Pour les verbes, fournissez les formes infinitives. "
+                            "Pour les noms, fournissez la forme singulière. "
+                            "Pour les adjectifs, fournissez la forme masculine singulier. "
+                            "Assurez-vous qu'aucun '-' initial n'est inclus."
                         ),
                     },
                     {
@@ -56,12 +56,19 @@ def process_image(image_path, output_file):
     headers = {"Content-Type": "application/json", "Authorization": f"Bearer {api_key}"}
     payload = create_payload(base64_image)
 
-    response = requests.post(
-        "https://api.openai.com/v1/chat/completions", headers=headers, json=payload
-    )
+    for _ in range(3):  # Try up to 3 times
+        response = requests.post(
+            "https://api.openai.com/v1/chat/completions", headers=headers, json=payload
+        )
 
-    response_data = response.json()
-    new_words = response_data["choices"][0]["message"]["content"].split("\n")
+        response_data = response.json()
+        if "choices" in response_data:
+            new_words = response_data["choices"][0]["message"]["content"].split("\n")
+            break
+    else:
+        print(f"Skipping image {image_path} due to repeated errors.")
+        os.remove(downsized_image_path)
+        return
 
     if os.path.exists(output_file):
         with open(output_file, "r") as f:
