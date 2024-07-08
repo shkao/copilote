@@ -1,5 +1,12 @@
 # Vocabulaire
 
+## Ideal process
+
+1. Collect words from images or 法語助手 or Online Dictionary Helper
+2. Sanitize words, check if it's already in Anki
+3. If not, look up in https://www.frdic.com/ for the meaning, and find related picture for the word.
+4. Add the card to Anki
+
 ## Prompt
 
 ```
