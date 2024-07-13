@@ -2,7 +2,7 @@
 
 ## Sources of materials
 
-* 天肯: 初階1、初階2
+* Tianken: A1-1, A1-2
 
 ## Tools
 
